@@ -19,7 +19,6 @@ javascript:(function() {
         
     let summaryText = `Wordle ${gameData.game.dayOffset} ${gameData.game.currentRowIndex}/6\n\n${result}`;
     
-    console.log("----------");
     console.log(summaryText);
     
     navigator.clipboard.writeText(summaryText);
