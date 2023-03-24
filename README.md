@@ -21,3 +21,6 @@ Now you can click on the created bookmark(let) to execute the script and copy th
 
 Click Away and have fun!! 🖱️
 
+## TODOs
+- [ ] Feedback on copy complete
+- [ ] Check if the game is not finished
