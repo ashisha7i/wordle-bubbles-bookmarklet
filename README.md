@@ -26,8 +26,8 @@ Wordle 643 4/6
 - Copies the text (shown above) to the clipboard using `navigator.clipBoard` API
 
 **Tested on:**
-- Chrome
-- Slack (should work on clients that render `:white_circle:`, `:large_yellow_circle:` and `:large_green_circle:` correctly)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg" height="12px"></img> Chrome
+- <img src="https://tinyurl.com/4v29mss2" height="12px"></img> Slack - (should work on clients that render `:white_circle:`, `:large_yellow_circle:` and `:large_green_circle:` correctly)
 - Unauthenticated flow (should work for Authenticated users too but haven't tested it yet)
 
 ## Steps to Install
