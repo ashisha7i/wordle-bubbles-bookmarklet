@@ -52,11 +52,11 @@ jobs:
           badges: |
             [
               {
-                "badge": "https://img.shields.io/badge/language-JavaScript-blue.svg?style=flat-square",
+                "badge": "https://img.shields.io/badge/language-JavaScript-blue.svg?style=flat-rounded",
                 "alt": "Language"
               },
               {
-                "badge": "https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=flat-square",
+                "badge": "https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=flat-rounded",
                 "alt": "PRs Welcome",
                 "link": "${{ env.repo_url }}/pulls"
               }
