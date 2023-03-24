@@ -1,6 +1,11 @@
 # Bookmarklet to copy Wordle board as bubbles
 
 <!-- [START BADGES] -->
+<!-- Please keep comment here to allow auto update -->
+[![MIT License](https://img.shields.io/github/license/ashisha7i/wordle-bubbles-bookmarklet?style=flat-square)](https://github.com/ashisha7i/wordle-bubbles-bookmarklet/blob/master/LICENSE)
+![Language](https://img.shields.io/badge/language-JavaScript-blue.svg?style=flat-square)
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=flat-square)](https://github.com/ashisha7i/wordle-bubbles-bookmarklet/pulls)
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/ashisha7i/wordle-bubbles-bookmarklet.svg?logo=lgtm&style=flat-square)](https://lgtm.com/projects/g/ashisha7i/wordle-bubbles-bookmarklet/context:javascript)
 <!-- [END BADGES] -->
 
 Example:
