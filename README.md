@@ -8,7 +8,21 @@
 
 **Example:**
 
-![image](https://user-images.githubusercontent.com/896590/227412251-6afd3c2e-feef-49a8-a333-d2916808a03a.png)
+![image](https://user-images.githubusercontent.com/896590/227614334-48923daf-24fe-4c5d-99bd-e83b99d73370.png)
+
+**How it works?**
+- Gets the game data from `localStorage`
+- Iterates over the game boxes and generates the text like below:
+```
+Wordle 643 4/6
+
+:white_circle::white_circle::white_circle::white_circle::large_green_circle:
+:white_circle::large_green_circle::white_circle::white_circle::white_circle:
+:white_circle::large_yellow_circle::large_yellow_circle::white_circle::white_circle:
+:large_green_circle::large_green_circle::large_green_circle::large_green_circle::large_green_circle:
+```
+
+- Copies the text (shown above) to the clipboard using `navigator.clipBoard` API
 
 **Tested on:**
 - Chrome
