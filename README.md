@@ -2,7 +2,7 @@
 
 <!-- [START BADGES] -->
 <!-- Please keep comment here to allow auto update -->
-[![MIT License](https://img.shields.io/github/license/ashisha7i/wordle-bubbles-bookmarklet?style=flat-square)](https://github.com/ashisha7i/wordle-bubbles-bookmarklet/blob/main/LICENSE)
+[![MIT License](https://img.shields.io/github/license/ashisha7i/wordle-bubbles-bookmarklet?style=flat-rounded)](https://github.com/ashisha7i/wordle-bubbles-bookmarklet/blob/main/LICENSE)
 ![Language](https://img.shields.io/badge/language-JavaScript-blue.svg?style=flat-rounded)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=flat-rounded)](https://github.com/ashisha7i/wordle-bubbles-bookmarklet/pulls)
 <!-- [END BADGES] -->
