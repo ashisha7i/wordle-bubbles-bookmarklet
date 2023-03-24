@@ -1,5 +1,8 @@
 # Bookmarklet to copy Wordle board as bubbles
 
+<!-- [START BADGES] -->
+<!-- [END BADGES] -->
+
 Example:
 
 ![image](https://user-images.githubusercontent.com/896590/227412251-6afd3c2e-feef-49a8-a333-d2916808a03a.png)
