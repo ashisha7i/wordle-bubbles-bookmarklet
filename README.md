@@ -9,7 +9,7 @@
 
 **Example:**
 
-![image](https://user-images.githubusercontent.com/896590/227614334-48923daf-24fe-4c5d-99bd-e83b99d73370.png)
+![image](https://user-images.githubusercontent.com/896590/227618214-656ab41b-454e-40c0-aaa0-2a9e28cd85d6.png)
 
 **How it works?**
 - Gets the game data from `localStorage`
