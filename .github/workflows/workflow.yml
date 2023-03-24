@@ -52,11 +52,6 @@ jobs:
           badges: |
             [
               {
-                "badge": "https://img.shields.io/github/license/${{ env.repo_owner }}/${{ env.repo_name }}?style=flat-square",
-                "alt": "MIT License",
-                "link": "${{ env.repo_url }}/blob/master/LICENSE"
-              },
-              {
                 "badge": "https://img.shields.io/badge/language-JavaScript-blue.svg?style=flat-square",
                 "alt": "Language"
               },
@@ -64,10 +59,5 @@ jobs:
                 "badge": "https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=flat-square",
                 "alt": "PRs Welcome",
                 "link": "${{ env.repo_url }}/pulls"
-              },
-              {
-                "badge": "https://img.shields.io/lgtm/grade/javascript/g/${{ env.repo_owner }}/${{ env.repo_name }}.svg?logo=lgtm&style=flat-square",
-                "alt": "Language grade: JavaScript",
-                "link": "https://lgtm.com/projects/g/${{ env.repo_owner }}/${{ env.repo_name }}/context:javascript"
               }
             ]
