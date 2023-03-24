@@ -2,8 +2,8 @@
 
 <!-- [START BADGES] -->
 <!-- Please keep comment here to allow auto update -->
-![Language](https://img.shields.io/badge/language-JavaScript-blue.svg?style=flat-square)
-[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=flat-square)](https://github.com/ashisha7i/wordle-bubbles-bookmarklet/pulls)
+![Language](https://img.shields.io/badge/language-JavaScript-blue.svg?style=flat-rounded)
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=flat-rounded)](https://github.com/ashisha7i/wordle-bubbles-bookmarklet/pulls)
 <!-- [END BADGES] -->
 
 Example:
