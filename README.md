@@ -43,5 +43,6 @@ Now you can click on the created bookmark(let) to execute the script and copy th
 Click Away and have fun!! 🖱️
 
 ## TODOs
-- [ ] Feedback on copy complete
+- [x] Feedback on copy complete
+- [x] Hide stats modal if open
 - [ ] Check if the game is not finished
