@@ -31,17 +31,24 @@ javascript:(function() {
     style.appendChild(document.createTextNode(css));
     head.appendChild(style);
 
+    /* Hiding the modal */
+    document.querySelector("dialog[class^='Modal-module_modalOverlay']").style.visibility = "hidden";
+
     /* Adding Class to the Element */    
     let headerDiv = document.querySelector('div[class^="AppHeader-module_title"]');
 
+    /* Adding 'blink_me' class to Wordle header */
     headerDiv.classList.add("blink_me");
     
+    /* Removing the extra elements and classes added */
     setTimeout(() => {
         headerDiv.classList.remove("blink_me");
         head.removeChild(style);
     }, 1000);
 
     console.log(summaryText);
+
+    /* Copy the result to clipboard */
     navigator.clipboard.writeText(summaryText);
 
 })();
